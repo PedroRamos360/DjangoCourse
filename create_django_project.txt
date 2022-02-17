@@ -1,0 +1,3 @@
+1) criar pasta src
+2) (dentro do virtualenv) rodar: django-admin startprojet [nome projeto] .
+3) rodar: django-admin starapp [nome do app]
