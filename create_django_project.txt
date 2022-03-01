@@ -1,3 +1,10 @@
 1) criar pasta src
 2) (dentro do virtualenv) rodar: django-admin startprojet [nome projeto] .
 3) rodar: django-admin starapp [nome do app]
+
+
+----- Usar Crispy forms ----
+1) pip install django-crispy-forms
+2) adicionar em settings.py em installed apps => 'crispy_forms'
+3) adicionar em settings.py no final do arquivo CRISPY_TEMPLATE_PACK="bootstrap4" (esse é 
+o css framework usado no vídeo mas pode ser outro)
